@@ -23,7 +23,7 @@ Do not use against systems without explicit permission.
     -  Linux / macOS Terminal
     -  Windows Terminal, PowerShell 7+
     -  IntelliJ IDEA, VS Code, BlueJ recenti
-    - ⚠️ Vecchi cmd.exe di Windows: i colori potrebbero apparire come testo
+    -  Vecchi cmd.exe di Windows: i colori potrebbero apparire come testo
 
 Per verificare la versione di Java installata:
 ```bash
