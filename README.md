@@ -16,7 +16,7 @@ Do not use against systems without explicit permission.
 
 ---
 
-## 🔧 Requisiti
+## Requisiti
 
 - **Java JDK 8** o versioni successive
 - Un terminale che supporti i codici ANSI (consigliato):
