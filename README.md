@@ -1,7 +1,7 @@
-#  Brute Force Password Cracker
-
+#  Brute Force Password 
 > This project is intended for educational purposes and authorized security testing only.
 Do not use against systems without explicit permission.
+---
 > L'utilizzo di tecniche brute force contro sistemi, account o servizi senza autorizzazione costituisce **reato** in tutti i paesi. L'autore non si assume alcuna responsabilità per usi impropri.
 
 ## Caratteristiche
